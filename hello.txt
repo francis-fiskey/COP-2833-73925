@@ -3,4 +3,9 @@ Hello! Kai Rainey is here. :)
 Hello! Im Job Garcia :)
 Hello! Nelson Checking in! :)
 Hello my name is Meagan!
+<<<<<<< HEAD
+>>>>>>> my-greeting
+Hello! This is Elizabeth! 
+=======
 Hello! My name is Annetta. 
+>>>>>>> origin/main
